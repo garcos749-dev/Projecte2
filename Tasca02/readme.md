@@ -79,4 +79,9 @@ L’informe final ha d’incloure:
 ## 📚 Material de suport
 - **Apunts RA1AA3 – El SAI**
 
+- ## 📄 Contingut
+
+**[solució.md](./solució.md)** — Documentació completa de la tasca.
+**Carpeta [IMG/](./IMG/)** — Imatges i captures de pantalla utilitzades a la documentació.
+
 
