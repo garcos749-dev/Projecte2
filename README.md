@@ -30,3 +30,8 @@ Treball en equip, comunicació i gestió del temps.
 ---
 
 ## Tasques
+
+- [Tasca02](Tasca02)
+- [Tasca03](Tasca03)
+
+
