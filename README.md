@@ -1,4 +1,3 @@
-## Descripció 
 
 # 💼 Projecte 2
 
