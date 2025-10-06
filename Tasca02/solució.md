@@ -97,6 +97,6 @@ L’**Eaton 5SC1500i** és una bona opció si es preveu **creixement d’equips*
 
 📚 **Material de suport:** Apunts *RA1AA3 – El SAI*
 
-![Persona paseando a pavo real](img/imatge01.png)
+![Foto activitat](img/imatge01.png)
 
 [Tornar a enunciat](README.md)
