@@ -33,7 +33,7 @@ Treball en equip, comunicació i gestió del temps.
 
 - [Tasca02](Tasca02)
 - [Tasca03](Tasca03)
-- - [Tasca03](Tasca08)
+- [Tasca03](Tasca08)
 
 
 
